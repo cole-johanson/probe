@@ -11,7 +11,8 @@ add_sorting(x, method = "count_desc")
 
 \item{method}{One of:
 \itemize{
-  \item{"count_desc"}{Descending count}
+  \item{"count_desc"} {Descending count},
+  \item{"order"} {Order in which the element is first seen}
 }}
 }
 \description{
